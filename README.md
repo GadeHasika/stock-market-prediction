@@ -1,7 +1,7 @@
 # 📈 Stock Market Sentiment Analysis using NLP
 
 This project analyzes stock market sentiment using real-time news headlines and social media posts (e.g., Twitter, Reddit). It uses Natural Language Processing (NLP) techniques and pre-trained models to determine whether market sentiment is bullish, bearish, or neutral.
-It predicts the next day stock movement using the historical data.Comparsion between the stocks of the different sectors.
+It predicts the next day stock movement using the historical data and also comparsion between the stocks of the different sectors.
 
 ---
 
